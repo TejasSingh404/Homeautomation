@@ -2,13 +2,13 @@
 #include <BlynkSimpleEsp8266.h>
 
 // Replace these with your Blynk credentials
-#define BLYNK_TEMPLATE_ID "TMPL3gvDlC6p2"
-#define BLYNK_TEMPLATE_NAME "Homeautomation"
-#define BLYNK_AUTH_TOKEN "-5E0Ib3YlD-3aztFRp0zZKoRyb4nk5Om"
+#define BLYNK_TEMPLATE_ID "XXXXXXXXXXXXXXXXX"
+#define BLYNK_TEMPLATE_NAME "XXXXXXXXXX"
+#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXXXXXXXXXXX"
 
 // Replace with your network credentials
-const char* ssid = "Airtel_iqba_9101";
-const char* password = "air53618";
+const char* ssid = "WIFI";
+const char* password = "PSWD";
 
 // Define the relay pin
 const int relayPin = D1; // Change this to the pin you're using
